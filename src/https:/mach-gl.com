@@ -1,1 +1,0 @@
-# Mach::GL Logo
