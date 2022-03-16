@@ -23,6 +23,7 @@ Mach::GL is an OpenGL game engine that combines the ease of high-level programmi
   - Documenting code
   - Post-processing effects (bloom effects etc.)
   - Scene file saving/loading (using YAML)
+  - OpenAL support 
   
  ### Features I want to add soon:
   - Scene editor
@@ -31,7 +32,6 @@ Mach::GL is an OpenGL game engine that combines the ease of high-level programmi
   - Shadows
   - Lua scripting
   - FBX file loading (for faster 3D object loading)
-  - OpenAL support 
   - 3D physics using PhysX (including a non-nVidia alternative) 
   - Vulkan support
  
