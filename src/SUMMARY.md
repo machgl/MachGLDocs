@@ -12,6 +12,7 @@
 
 # 3D
 - [Skybox](./3D/skybox.md)
+- [Object](./3D/object.md)
 
 # Graphics 
 - [Images](./graphics/image.md)
