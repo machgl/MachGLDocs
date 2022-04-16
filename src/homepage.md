@@ -1,6 +1,6 @@
 # Mach::GL Documentation
 
-Mach::GL is an OpenGL game engine that combines the ease of high-level programming with the control of low level access. Hi brad!
+Mach::GL is an OpenGL game engine that combines the ease of high-level programming with the control of low level access.
 
 ### Current features:
   - High performance 2D & 3D renderers
